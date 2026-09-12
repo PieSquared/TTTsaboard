@@ -38,7 +38,7 @@ Its a pretty cool clock I would say and does what any other clock does, but bett
 
 # AI USE
 
-Google search ai was used in order to understand tools i am unfamiliar with and understanding the C++/Arduino syntax
+Google search ai was used in order to understand tools i am unfamiliar with and understanding the C++/Arduino syntax.
 
 
 
