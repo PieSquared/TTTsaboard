@@ -1,5 +1,5 @@
-# Tung Tung Tung sa Board (TTTsaboard)
-Tung Tung Tung sa Board is one of the best alarm clocks out there for the _not so_ ordinary consumers! It has 4 keys on the top that is powered by a ESP32 with a 2.25in screen.
+# Tung Tung Tung sa Clock (TTTsaClock)
+Tung Tung Tung sa Clock is one of the best alarm clocks out there for the _not so_ ordinary consumers! It has 4 keys on the top that is powered by a ESP32 with a 2.25in screen.
 Its a pretty cool clock I would say and does what any other clock does, but better.
 
 
